@@ -8,7 +8,7 @@
       <div class="d-flex">
         <div class="d-flex align-center">
           <v-btn
-            href="/"
+            href="/forb-jsdelivr/"
             text
             class="px-1 px-md-2 mr-4"
           >
